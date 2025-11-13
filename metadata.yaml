@@ -1,0 +1,157 @@
+ID: "MATH1004"
+SimilarID: []
+Name: "概率论与数理统计"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "机械", "土木", "材料", "通信", "自动化", "计算机", "环境", "经济" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 20
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 70
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+        - Name: "习题课"
+          Hour: 8
+
+  Major:
+    - Year: "2020_2021"
+      Name: [ "土木", "环境", "材料", "计算机", "电信", "机械", "电气", "经济", "工商管理", "自动化" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 20
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 70
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+        - Name: "习题课"
+          Hour: 8
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "自动化", "能源", "经济", "工商管理", "土木", "环境", "机械", "电气", "材料", "计算机", "通信", "通信（第二学位）", "光电" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 20
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 70
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+        - Name: "习题课"
+          Hour: 8
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "通信", "通信（第二学位）", "土木", "环境", "经济", "经济实验班", "工商管理", "经济学（第二学位）", "自动化", "能源", "计算机", "光电", "材料", "机械", "电气", "智能强基班" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 20
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 70
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+        - Name: "习题课"
+          Hour: 8
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "机械", "电气", "计算机", "通信", "光电", "自动化", "材料", "工商管理", "环境", "经济", "能源", "土木", "经济学（第二学士学位）" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 20
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 70
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+        - Name: "习题课"
+          Hour: 8
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（自动化与电气工程）", "经济学（第二学士学位）", "工科试验班（机器人与智能装备）", "工科试验班（生态环境类）", "工科试验班（智能土木类）", "工科试验班（先进材料类）", "化学", "工科试验班（计算机与电子通信）", "人工智能班", "经济管理试验班", "电气" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 20
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 70
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+        - Name: "习题课"
+          Hour: 8
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "工科试验班（机器人与智能装备）", "工科试验班（计算机与电子通信）", "人工智能班", "经济管理试验班", "工科试验班（生态环境类）", "电气工程及其自动化", "工科试验班（计算机与电子通信拔尖班）", "工科试验班（空天科技）", "工科试验班（智慧能源与低空动力）" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 20
+        - Name: "论文"
+          Percentage: 10
+        - Name: "期末考试"
+          Percentage: 70
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+        - Name: "习题课"
+          Hour: 8
