@@ -68,3 +68,8 @@
 如果你厌恶 Word 的糟糕透顶的公式编辑，而喜欢用 $\LaTeX$ 写论文，可以看看这个 [模板仓库](https://github.com/IcyDesert/probability-essay-template)。
 
 > 文 / [IcyDesert](https://github.com/IcyDesert), 2025.3
+
+如果你厌恶 $\LaTeX$ 的编译速度慢和错误信息难懂，而喜欢用 'Typst' 写论文，可以看看这个 [模板仓库](https://github.com/capoo-fan/probability-typst-template)。
+
+> 文 / [潜伏](https://github.com/capoo-fan), 2025.11
+
