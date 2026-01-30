@@ -1,0 +1,111 @@
+course_name = "概率论与数理统计"
+repo_type = "normal"
+course_code = "MATH1004"
+
+# 授课教师 (Lecturers)
+[[lecturers]]
+name = "董志远"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：使用 PPT，课上会给出例题让大家在几分钟内做，然后给出解答。
+              听课建议：有丰富的例题便于大家理解，建议按照老师的节奏听课和做例题。
+  """
+  author = { name = "", link = "", date = "" }
+[[lecturers]]
+name = "赵毅"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：太爱拓展了……他的拓展真的听不懂，听的时候注意下讲的在不在大纲里，但是拓展非常有用，特别是在炼丹的同学一定要听。讲的非常快，会抽问。
+              听课建议：课前需要预习，不然跟不上，最后的习题课值得一听，一定要带书！！！纸质版的！！！
+  """
+  author = { name = "海星", link = "", date = "2025-01-01" }
+[[lecturers]]
+name = "欧阳顺湘"
+
+  [[lecturers.reviews]]
+  content = """  上课较为平淡，声音较小，坐后排会有听不清的情况，课上无 PPT，只有板书，但是有疑问还是可以请教老师，老师会耐心解答。老师是 $\\LaTeX$ 大师，自己写了一本教材，有 pdf 版本但是不外传，只在课程 qq 群 发过（每次上课都会修改，挺用心的），上课按照这个 pdf 讲，而不是课本。
+  """
+  author = { name = "Wei He", link = "https://github.com/hewei2001", date = "2020-01-01" }
+[[lecturers]]
+name = "王勇"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：老师是本部退休返聘到深圳的，也是教材的编者之一，水平很高，上课使用纯板书，按照课本的内容讲解并适当予以拓展。老师比较反感上课迟到的同学，会将他们请出教室，等到课间再允许进来。
+              听课建议：老师年龄虽然大了，但很有精气神，而且纯板书上课，因此条理脉络非常清晰，非常推荐跟着老师的思路听课。
+  """
+  author = { name = "wpj", link = "https://github.com/wpj9362/", date = "2026-01-01" }
+
+# 教材与参考书(不需要author)
+[[textbooks]]
+title = "大学数学. 概率论与数理统计"
+book_author = "周永春、李朝艳、方茹、田波平、王勇"
+publisher = "高等教育出版社"
+edition = "第 3 版"
+type = "textbook"
+
+[[textbooks]]
+title = "概率论与数理统计"
+book_author = "盛骤、谢式千、潘承毅"
+publisher = "高等教育出版社"
+edition = "第 5 版"
+type = "reference"
+
+# 网络资源（电子书、网课等）
+[[online_resources]]
+title = "《概率论与数理统计》教学视频全集（宋浩）"
+url = "https://www.bilibili.com/video/BV1ot411y7mU?from=search&seid=18266417361128047917"
+description = "上课没听懂看一下宋老师的就可以了，复习也可以看，亲身体验帮助很大。"
+
+[[online_resources]]
+title = "概率论课程论文 LaTeX 模板"
+url = "https://github.com/IcyDesert/probability-essay-template"
+description = "如果你厌恶 Word 的糟糕透顶的公式编辑，而喜欢用 LaTeX 写论文，可以看看这个模板仓库。"
+
+[[online_resources]]
+title = "概率论课程论文 Typst 模板"
+url = "https://github.com/capoo-fan/probability-typst-template"
+description = "如果你厌恶 LaTeX 的编译速度慢和错误信息难懂，而喜欢用 Typst 写论文，可以看看这个模板仓库。"
+
+[[exam]]
+content = """
+每年题型略有变化，23 级 24 秋的考试题型为为 5 题选择题 + 5 题填空题 + 7 题计算题，试卷满分 70 分。
+
+考试难度不大，大多是上课时讲过的例题的改编，24 秋的期末考卷更是出现了往年题原题。考试难点在于积分区域的确定和公式的记忆（反例是 24 秋第 13 题许多同学由于二重积分区域的错误而算出无穷大的概率），考前一定要重新理清全书的逻辑，牢记一些不太好记忆的内容。
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703/", date = "2025-01-01" }
+
+[[exam]]
+content = """24 级 25 秋的考试延续了 24 秋的题型，难度也不大，且同样出现了原题。平时只要有认真练习，很容易考到一个理想的分数。
+"""
+author = { name = "wpj", link = "https://github.com/wpj9362/", date = "2026-01-01" }
+
+[[exam]]
+content = """
+考试的难度每年迥异，建议不要将前一年的难度作为参考，建议认真完成作业，多刷刷例题，提高做题熟练度。论文评分普遍较高，旨在锻炼同学们的论文写作能力，可以使用 Axmath，mathtype，所以需要特别注意格式。
+
+老师考前说之前学生反映考试难度较低（很多满分），所以这次增大题量，导致挂科率奇高。考场上需要熟练使用各个公式。
+"""
+author = { name = "Wei He", link = "https://github.com/hewei2001", date = "2020-01-01" }
+
+[[advice]]
+content = """
+由于有高中的基础，该课程上手比较简单，但不要因此忽视了该课程学习，22 届反馈考试难度较大。
+
+1. 第一二章主要介绍了一些基础的概率和公式
+2. 第三四章都是随机变量及其分布，第三章是一维而第四章是二维的。
+   - 要掌握分布函数，概率密度函数等概念（建议尝试以图形化的方式去加深理解，在做有些题时也能非常好用）
+   - 熟悉书上给的常见分布的性质，这里会用到较多的微积分知识，计算量也不算小，需要一定的练习
+3. 第五章
+   - 学到这里，应该把第三四章学到的各分布全部汇总一下，大概一张 A4 纸就足够？总结各分布的数字特征
+   - 大数定律，算是有点独立的考点？把几个大数定律记住再多做点题体会是怎么用的
+4. 第六七章开始进入数理统计部分了，相对前面可能这里的东西比较抽象，而且进入半期可能听课热情有所衰减
+   - 学好第六章是第七章的基础，第六章的几个分布函数一定要非常熟悉其数学特征 ，学习第七章也就会比较轻松了
+
+考试已经连续两届出现考前撤回允许带计算器的情况，有些时候计算量还是挺大，题难了就像是在做小高数一样，平时多刷一点题。
+
+小论文，评分方式存疑。有些助教打的高有些助教打的低，并不是根据期末成绩给分，所以不要写的太水，有点图片是更好的。
+"""
+author = { name = "AutoFriedRich", link = "https://github.com/AutoFriedRich", date = "2024-07-01" }
