@@ -64,8 +64,10 @@ content = """
 
 24 级 25 秋的考试延续了 24 秋的题型，难度也不大，且同样出现了原题。平时只要有认真练习，很容易考到一个理想的分数。"
 """
-author = [{ name = "Gaster", link = "https://github.com/WDGaster703/", date = "2025-01" },
-{ name = "wpj", link = "https://github.com/wpj9362/", date = "2026-01" }]
+author = [
+  { name = "Gaster", link = "https://github.com/WDGaster703/", date = "2025-01" },
+  { name = "wpj", link = "https://github.com/wpj9362/", date = "2026-01" },
+]
 
 
 [[sections.items]]
