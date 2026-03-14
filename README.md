@@ -9,6 +9,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 董志远
   <!-- TOML-ITEM: id="review-董志远-1" -->
   - 授课风格：使用 PPT，课上会给出例题让大家在几分钟内做，然后给出解答。
