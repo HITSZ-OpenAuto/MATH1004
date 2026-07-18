@@ -1,3 +1,0 @@
-category: 必修
-semester: 第二学年秋季
-name: 概率论与数理统计
