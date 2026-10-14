@@ -1,0 +1,287 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763813805,
+    "hash": "ad1663e6ac6fe85799ee10a76fe05975d36d90e3"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713079994,
+    "hash": "9010e43ee6378aa6c7690b57e38e4dd0eb98c3c9"
+  },
+  "README.md": {
+    "size": 6408,
+    "time": 1791961124,
+    "hash": "381d9212f8e95a10681c70c16beacd3f0ed919a2"
+  },
+  "assignments/概率论1-7章课后题.pdf": {
+    "size": 639164,
+    "time": 1767889794,
+    "hash": "47bfac4c6cbe20a17301ce0dab8fa336132e1708"
+  },
+  "assignments/概率论与数理统计同步训练.pdf": {
+    "size": 32484250,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "assignments/论文/概率统计论文-psp.pdf": {
+    "size": 1739246,
+    "time": 1751079574,
+    "hash": "d0d2d045a811811280ba3d3d5bde264244cafab0"
+  },
+  "assignments/论文/概率论与数理统计论文-Sonder.pdf": {
+    "size": 3018679,
+    "time": 1767889794,
+    "hash": "47bfac4c6cbe20a17301ce0dab8fa336132e1708"
+  },
+  "assignments/论文/概率论与数理统计论文-wjd.pdf": {
+    "size": 113463,
+    "time": 1752974060,
+    "hash": "3a3e4c384aaa56c0571516c357c3d27464e515c4"
+  },
+  "assignments/论文/概率论课程论文-Gaster.pdf": {
+    "size": 239916,
+    "time": 1752974060,
+    "hash": "3a3e4c384aaa56c0571516c357c3d27464e515c4"
+  },
+  "exams/2017秋深圳概率论期末答案.pdf": {
+    "size": 326967,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "exams/2017秋深圳概率论期末试卷.pdf": {
+    "size": 206456,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "exams/2019概率论试卷.pdf": {
+    "size": 16919680,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/2021年概率统计试题.pdf": {
+    "size": 174925,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "exams/2022本部期末试题X（有答案）.pdf": {
+    "size": 9485231,
+    "time": 1765172516,
+    "hash": "73c947de3c1e20597d80b456902ada71a21b4f79"
+  },
+  "exams/2022概统模拟题.pdf": {
+    "size": 100918,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "exams/2022概统模拟题答案.docx": {
+    "size": 6531915,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/2023年秋概率论与数理统计考试试题（回忆版）.pdf": {
+    "size": 220729,
+    "time": 1726059322,
+    "hash": "1853181d8bda28f05bcb439a25d9a8713ab40065"
+  },
+  "exams/2023本部期末试题C（有答案）.pdf": {
+    "size": 5704985,
+    "time": 1765172516,
+    "hash": "73c947de3c1e20597d80b456902ada71a21b4f79"
+  },
+  "exams/2024年秋概率论与数理统计试题A参考答案.pdf": {
+    "size": 135846,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "exams/2024秋概率论与数理统计试题A回忆版.pdf": {
+    "size": 572028,
+    "time": 1734447492,
+    "hash": "9c57cf9dc92b8535d86e8fde44d71adbb6aa14ed"
+  },
+  "exams/2024级概率论与数理统计模拟题.pdf": {
+    "size": 148282,
+    "time": 1773145074,
+    "hash": "25aab2f7171422975eb5c20905942e6a327f25b7"
+  },
+  "exams/2024级概率论与数理统计模拟题解析.pdf": {
+    "size": 504389,
+    "time": 1773145074,
+    "hash": "25aab2f7171422975eb5c20905942e6a327f25b7"
+  },
+  "exams/[HIT教材]概率论综合训练.pdf": {
+    "size": 38690616,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/README.md": {
+    "size": 98,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题答案.pdf": {
+    "size": 869731,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（一）.pdf": {
+    "size": 170606,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（七）.pdf": {
+    "size": 173807,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（三）.pdf": {
+    "size": 161299,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（九）.pdf": {
+    "size": 195740,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（二）.pdf": {
+    "size": 167169,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（五）.pdf": {
+    "size": 186798,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（八）.pdf": {
+    "size": 214180,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（六）.pdf": {
+    "size": 175234,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（十一）.pdf": {
+    "size": 185813,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（十三）校订.pdf": {
+    "size": 174883,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（十二）.pdf": {
+    "size": 189251,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（十四）.pdf": {
+    "size": 174102,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（十）.pdf": {
+    "size": 181450,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "exams/模拟试题/概率论与数理统计模拟试题（四）.pdf": {
+    "size": 161178,
+    "time": 1701183739,
+    "hash": "fdb95700a0d71fce08d3d3509f8849cd5c5baf51"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "notes/2019_JarrettYe/概率论与数理统计Note.md": {
+    "size": 29172,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/README.md": {
+    "size": 722,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/多元随机变量.pdf": {
+    "size": 692271,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/常见随机变量.pdf": {
+    "size": 6144705,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/数理统计.pdf": {
+    "size": 882812,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/条件.pdf": {
+    "size": 771526,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/极限理论.pdf": {
+    "size": 410557,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/随机变量的函数.pdf": {
+    "size": 1761843,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2019_xyfJASON/随机变量的独立性与相关性.pdf": {
+    "size": 509995,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2021_威海/思维导图.pdf": {
+    "size": 3636406,
+    "time": 1737176614,
+    "hash": "32e7ace1618df2860773b6fa5bf81c663b3a21a5"
+  },
+  "notes/2023概率统计笔记_psp.pdf": {
+    "size": 34115151,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "notes/2024_lsx/概率论与数理统计_lsx.pdf": {
+    "size": 6865078,
+    "time": 1765816075,
+    "hash": "a72754d228aa2341415e20d1f8e246708695a26e"
+  },
+  "notes/2024概率论笔记_zww.pdf": {
+    "size": 5115111,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  },
+  "notes/2025二维随机变量的分布_xl.pdf": {
+    "size": 40041032,
+    "time": 1773145094,
+    "hash": "23c29308e139a85f1382b45dd4f980fc92c8c184"
+  },
+  "notes/2025概率论笔记_Sonder.pdf": {
+    "size": 24355886,
+    "time": 1767889794,
+    "hash": "47bfac4c6cbe20a17301ce0dab8fa336132e1708"
+  },
+  "readme.toml": {
+    "size": 6515,
+    "time": 1791961141,
+    "hash": "e6c3784602ec62a1a5023edae24ea29f671ce309"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737644686,
+    "hash": "426f37111b22f624798beb7cd6454fb7b723a21a"
+  }
+}
